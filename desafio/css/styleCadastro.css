@@ -1,0 +1,12 @@
+.containerCadastro{
+  margin-top: 100px;
+  height: 350px;
+  width: 800px;
+  border: 2px solid black;
+}
+.cadastro{
+  padding: 10px;
+}
+.labelCadastro{
+  border-bottom: 2px solid black;
+}
